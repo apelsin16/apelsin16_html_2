@@ -1,0 +1,17 @@
+.fio,
+.want,
+.contacts
+ {
+  border-bottom: 2px solid gray;
+  margin-left: 20%;
+  width: 450px
+}
+.feedback {
+  margin-left: 20%;
+  width: 450px
+}
+p,
+a {
+margin-left: 25px;
+padding: 25px;
+}
